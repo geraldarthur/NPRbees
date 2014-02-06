@@ -10,4 +10,4 @@ npm install -g serve
 serve
 ```
 
-Then visit your `127.0.0.1:3000` to check the bees status
+Then visit your `127.0.0.1:3000` to check the bees' status
